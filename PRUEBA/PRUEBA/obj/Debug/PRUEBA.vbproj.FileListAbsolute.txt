@@ -1,0 +1,10 @@
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe.config
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.pdb
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\bin\Debug\PRUEBA.xml
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.Form1.resources
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.Resources.resources
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.vbproj.GenerateResource.Cache
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.exe
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.xml
+c:\users\maximo\documents\visual studio 2012\Projects\PRUEBA\PRUEBA\obj\Debug\PRUEBA.pdb
